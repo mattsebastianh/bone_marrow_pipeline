@@ -3,4 +3,11 @@
   "train_accuracy": 0.9194630872483222,
   "best_params": {
     "clf__C": 4.641588833612772,
-    "pca__n_components": 
+    "pca__n_components": 37
+  },
+  "cv_score": 0.7995402298850574,
+  "roc_auc": 0.6946778711484594,
+  "n_features": 34,
+  "n_samples_train": 149,
+  "n_samples_test": 38
+}
