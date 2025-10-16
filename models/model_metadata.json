@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.631578947368421,
+  "train_accuracy": 0.9194630872483222,
+  "best_params": {
+    "clf__C": 4.641588833612772,
+    "pca__n_components": 
